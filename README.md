@@ -5,7 +5,7 @@
 
 - 🔭 My latest project [DevOps Project](https://github.com/emna-hannachii/DevOpsProject)
 
-- 👯 I’m looking for **an end-of-study internship in DevOps**
+- 🔍 I’m looking for **an end-of-study internship in DevOps**
 
 - 💬 Ask me about **DevOps,Jenkins,CI/CD,Kubernetes,Ansible,Docker,OpenStack**
 
