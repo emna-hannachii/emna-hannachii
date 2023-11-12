@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hannachi Emna</h1>
-<h3 align="center">A Cloud Computing student at ESPRIT:Private Higher School of Engineering and Technology</h3>
+<h3 align="center">A Cloud Computing student at ESPRIT : Private Higher School of Engineering and Technology</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emna-hannachii&label=Profile%20views&color=0e75b6&style=plastic" alt="emna-hannachii" /> </p>
 
 - 🔭 My latest project [DevOps Project](https://github.com/emna-hannachii/DevOpsProject)
 
-- 💬 Ask me about **Kubernetes,Ansible,Docker,OpenStack services,DevOps**
+- 💬 Ask me about **DevOps,Jenkins,CI/CD,Kubernetes,Ansible,Docker,OpenStack**
 
 - 📫 How to reach me **emna.hannachi@esprit.tn**
 
