@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emna-hannachii&label=Profile%20views&color=0e75b6&style=flat-square" alt="emna-hannachii" /> </p>
 
-- 🔍 **Cloud & DevOps Engineer Intern**
+- 👩‍💻​ **Cloud & DevOps Engineer Intern**
 
 - 🔭 My latest project [DevOps Project](https://github.com/emna-hannachii/DevOpsProject)
 
