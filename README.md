@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emna-hannachii&label=Profile%20views&color=0e75b6&style=flat-square" alt="emna-hannachii" /> </p>
 
-- 🔭 My latest project [DevOps Project](https://github.com/emna-hannachii/DevOpsProject)
+- 🔍 **Cloud & DevOps Engineer Intern**
 
-- 🔍 I’m looking for **an end-of-study internship in DevOps**
+- 🔭 My latest project [DevOps Project](https://github.com/emna-hannachii/DevOpsProject)
 
 - 💬 Ask me about **DevOps,Jenkins,CI/CD,Kubernetes,Ansible,Docker,OpenStack**
 
