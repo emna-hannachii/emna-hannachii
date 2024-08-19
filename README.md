@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hannachi Emna</h1>
-<h3 align="center">A Cloud Computing student at ESPRIT : Private Higher School of Engineering and Technology</h3>
+<h3 align="center">A Cloud Computing & DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emna-hannachii&label=Profile%20views&color=0e75b6&style=flat-square" alt="emna-hannachii" /> </p>
 
-- 👩‍💻​ **Cloud & DevOps Engineer Intern**
+- 👩‍💻​ **Cloud & DevOps Engineer**
 
 - 🔭 My latest project [DevOps Project](https://github.com/emna-hannachii/DevOpsProject)
 
