@@ -7,9 +7,9 @@
 
 - 🔭 My latest project [DevOps Project](https://github.com/emna-hannachii/DevOpsProject)
 
-- 💬 Ask me about **DevOps,Jenkins,CI/CD,Kubernetes,Ansible,Docker,OpenStack**
+- 💬 Ask me about **DevOps,Jenkins,CI/CD,Kubernetes,Ansible,Docker,OpenStack,Elasticsearch**
 
-- 📫 How to reach me **emna.hannachi@esprit.tn**
+- 📫 How to reach me **ing.hannachiemna@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
